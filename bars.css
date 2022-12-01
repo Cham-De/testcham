@@ -1,0 +1,32 @@
+div.nav_bar{
+    margin-left: 20%;
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    padding: 1rem;
+    border: 1px solid rgba(217, 217, 217, 0.87);
+  }
+  div.side_bar{
+    text-decoration: none;
+    position: fixed;
+    width: 20%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+  
+    background: rgba(217, 217, 217, 0.61);
+
+
+  }
+  div.side_bar div.logo{
+    margin-top: 5%;
+    margin-left: 25%;
+  }
+  .side-bar-icons{
+    margin: 0 auto;
+    border-spacing: 0 20px;
+  }
+
+  .last-item{
+    margin-top: 30%;
+  }
